@@ -4,7 +4,9 @@ https://github.com/Aravindan301/NM-DSCET-GROUP11/
 
 
 
-srs of project
+SRS of project
+
+
  1 Introduction
 1.1 Purpose
 The purpose of this document is to outline the software requirements for the development of a food delivery website. The website will serve as a platform for users to browse restaurants, view menus, place orders, and track deliveries.
