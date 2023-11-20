@@ -3,7 +3,7 @@ our project link is
 https://github.com/Aravindan301/NM-DSCET-GROUP11/
 
 Diployment link :https://food-delivery-dscet.netlify.app/
-![image](https://github.com/Aravindan301/NM-DSCET-GROUP11/assets/144884144/99b0ee14-b281-4096-809c-3a7731191f12)
+
 
 
 
